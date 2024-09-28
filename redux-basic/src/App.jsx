@@ -1,8 +1,11 @@
+import Counter from "./features/counter/Counter"
 
 function App() {
 
   return (
-    <div>hi</div>
+    <div>
+      <Counter /> 
+    </div>
   )
 }
 
