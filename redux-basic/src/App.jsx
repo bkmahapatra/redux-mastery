@@ -5,11 +5,9 @@ function App() {
 
   return (
     <div>
-      <PostsList />
-
-      <hr />
-
       <AddPost />
+      <hr />
+      <PostsList />
     </div>
   )
 }
